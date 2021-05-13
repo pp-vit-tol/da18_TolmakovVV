@@ -207,7 +207,7 @@
 
 ### Доступные файлы проекта:  
 1) " 11_Project_2021-04_Прогнозы и предсказания_Удержание клиентов Фитнес-центра.ipynb "  
-[Посмотреть проект через - nbviewer.jupyter.org](https://github.com/pp-vit-tol/da18_TolmakovVV/blob/main/11_Project_2021-04_%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D1%8B%20%D0%B8%20%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F_%D0%A3%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0.ipynb)  
+[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/pp-vit-tol/da18_TolmakovVV/blob/main/11_Project_2021-04_%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D1%8B%20%D0%B8%20%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F_%D0%A3%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0.ipynb)  
 
 ### Библиотеки: pandas / numpy / matplotlib / seaborn / plotly / sklearn / scipy /   
   
@@ -240,8 +240,11 @@
 
 ### Доступные файлы проекта:  
 1) " 12A_Project_2021-04_Анализ поведения пользователей "  
+[Посмотреть проект через - nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/pp-vit-tol/da18_TolmakovVV/blob/main/12A_Project_2021-04_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.ipynb)  
 2) " 12A_Project_2021-04_Презентация_Анализ поведения пользователей в мобильном приложении.pptx "  
+[Посмотреть Презентацию](https://github.com/pp-vit-tol/da18_TolmakovVV/blob/main/12A_Project_2021-04_%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%B2%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8.pptx)  
 3) " 12A_Project_2021-04__DashBoard_Tableau_Анализ поведения пользователей " (Ссылка)   
+[Посмотреть DashBoard_на сайте Tableau](https://github.com/pp-vit-tol/da18_TolmakovVV/blob/main/12A_Project_2021-04__DashBoard_Tableau_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.url)  
 
 ### Библиотеки: pandas / numpy / matplotlib / seaborn / plotly / datetime / scipy / math /   
   
@@ -278,7 +281,8 @@
 
 ### Доступные файлы проекта:    
 1) " 12B_Project_2021-04_Проект по АB-тестированию "  
-***(примечание: по непонятной  причине GitHub в ячейке "In [35]" не построил график воронки);***    
+(примечание: по непонятной  причине GitHub в ячейке "In [35]" не построил график воронки);  
+[Посмотреть проект через - nbviewer.jupyter.org](https://github.com/pp-vit-tol/da18_TolmakovVV/blob/main/12B_Project_2021-04_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%BF%D0%BE%20%D0%90B-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E.ipynb)  
 
 ### Библиотеки: pandas / numpy / matplotlib / seaborn / plotly / scipy / datetime / math /   
   
@@ -312,6 +316,7 @@
 
 ### Доступные файлы проекта:  
 1) " 12C_Project_2021-04_SQL-запросы.ipynb "  
+[Посмотреть проект через - nbviewer.jupyter.org](https://github.com/pp-vit-tol/da18_TolmakovVV/blob/main/12C_Project_2021-04_SQL-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B.ipynb)  
 
 ### Библиотеки: pandas / datetime / sqlalchemy /   
   

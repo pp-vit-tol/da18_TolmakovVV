@@ -354,7 +354,7 @@
 2) " 12A_Project_2021-04_Презентация_Анализ поведения пользователей в мобильном приложении.pptx "  
 [Посмотреть Презентацию](https://github.com/pp-vit-tol/da18_TolmakovVV/blob/main/12A_Project_2021-04_%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%B2%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8.pptx)  
 3) " 12A_Project_2021-04__DashBoard_Tableau_Анализ поведения пользователей " (Ссылка)   
-[Посмотреть DashBoard_на сайте Tableau](https://github.com/pp-vit-tol/da18_TolmakovVV/blob/main/12A_Project_2021-04__DashBoard_Tableau_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.url)  
+[Посмотреть DashBoard_на сайте Tableau](https://public.tableau.com/profile/vitaliy.tolmakov#!/vizhome/12_Final_Tolmakov_Vitaliy_DashBoard/sheet3?publish=yes%C2%B6)  
 
 ### Библиотеки: pandas / numpy / matplotlib / seaborn / plotly / datetime / scipy / math /   
   
